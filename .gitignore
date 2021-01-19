@@ -31,3 +31,4 @@ samples/debug.log
 
 # MacOS attributes files
 *.DS_Store
+/buildSrc/
