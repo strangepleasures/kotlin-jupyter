@@ -22,6 +22,7 @@ out/
 
 # Project Python virtual environments
 /venv/
+/distrib/venv/
 
 # Jupyter notebooks checkpoints
 **/.ipynb_checkpoints
